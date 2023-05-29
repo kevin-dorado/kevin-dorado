@@ -15,8 +15,8 @@ Soy Kevin Dorado, un desarrollador apasionado por la programación.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Logo de Bootstrap" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Logo de Java" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Logo de Visual Basic" width="50">
-</p>/devicon/master/icons/visualstudio/visualstudio-plain.svg)
+
 
 ## Contáctame
-- [Correo electrónico](mailto:tu_correo_electrónico)
-- [LinkedIn](enlace a tu perfil de LinkedIn)
+- [Correo electrónico](mailto:kevindorado2811@gmail.com)
+- [LinkedIn]([enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/kevin-dorado-64677a25b/))
