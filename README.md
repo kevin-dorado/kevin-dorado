@@ -1,4 +1,4 @@
- #Hola 👋
+ # Hola 👋
 
 Soy Kevin Dorado, un desarrollador apasionado por la programación.
 
@@ -6,13 +6,15 @@ Soy Kevin Dorado, un desarrollador apasionado por la programación.
 - Lenguajes de programación: HTML, CSS, JavaScript, Java, Visual Basic
 - Herramientas: Tailwind, Bootstrap
 
-![Logo de HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![Logo de CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![Logo de JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Logo de Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![Logo de Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-![Logo de Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
-![Logo de Visual Basic](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Logo de HTML" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Logo de CSS" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Logo de JavaScript" width="50">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Logo de Tailwind" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Logo de Bootstrap" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Logo de Java" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Logo de Visual Basic" width="50">
+</p>/devicon/master/icons/visualstudio/visualstudio-plain.svg)
 
 ## Contáctame
 - [Correo electrónico](mailto:tu_correo_electrónico)
