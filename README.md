@@ -8,7 +8,7 @@ Soy Kevin Dorado
 </div>
 
  <div align="center">
- ##
+ 
  
 ## Mis habilidades
 - Lenguajes de programación: HTML, CSS, JavaScript, Java, Visual Basic
@@ -22,8 +22,8 @@ Soy Kevin Dorado
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Logo de Bootstrap" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Logo de Java" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Logo de Visual Basic" width="50">
-
 </div>
+
 ## Contáctame
 - [Correo electrónico](mailto:kevindorado2811@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kevin-dorado-64677a25b/)
