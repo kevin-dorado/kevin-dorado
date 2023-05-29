@@ -1,4 +1,4 @@
- ![Banner](https://picsum.photos/900/300)
+ ![Banner](https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)
  # Hola 👋
 
 Soy Kevin Dorado, un desarrollador apasionado por la programación.
