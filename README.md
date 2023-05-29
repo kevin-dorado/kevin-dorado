@@ -27,7 +27,7 @@ Soy Kevin Dorado
 
 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/126/126470.png" alt="Logo de teléfono" width="30"> Contáctame
+## <img src="https://cdn-icons-png.flaticon.com/512/483/483345.png" alt="Logo de teléfono con fondo blanco" width="30"> Contáctame
 
 -<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Logo de correo electrónico" width="20"> [Correo electrónico](mailto:kevindorado2811@gmail.com)
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Logo de LinkedIn" width="20"> [LinkedIn](https://www.linkedin.com/in/kevin-dorado-64677a25b/)
