@@ -19,4 +19,4 @@ Soy Kevin Dorado, un desarrollador apasionado por la programación.
 
 ## Contáctame
 - [Correo electrónico](mailto:kevindorado2811@gmail.com)
-- [LinkedIn]([enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/kevin-dorado-64677a25b/))
+- [LinkedIn](https://www.linkedin.com/in/kevin-dorado-64677a25b/)
