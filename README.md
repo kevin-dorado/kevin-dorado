@@ -6,9 +6,11 @@ Soy Kevin Dorado
  
  Desarrollador Jr apasionado por la programación.
 </div>
-##
+
  <div align="center">
- Mis habilidades
+ 
+ 
+## Mis habilidades
 - Lenguajes de programación: HTML, CSS, JavaScript, Java, Visual Basic
 - Herramientas: Tailwind, Bootstrap
 
