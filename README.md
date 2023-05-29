@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hola 👋
 
-<!--
-**kevin-dorado/kevin-dorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Kevin Dorado, un desarrollador Jr.
 
-Here are some ideas to get you started:
+## Mis habilidades
+- Lenguajes de programación: Html
+- Herramientas: [herramientas que utilizas]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis proyectos
+- [Nombre del proyecto 1](enlace al proyecto 1)
+- [Nombre del proyecto 2](enlace al proyecto 2)
+
+## Contáctame
+- [Correo electrónico](mailto:tu_correo_electrónico)
+- [LinkedIn](enlace a tu perfil de LinkedIn)
