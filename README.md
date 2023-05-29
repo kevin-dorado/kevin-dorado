@@ -1,14 +1,18 @@
-# Hola 👋
+ #Hola 👋
 
-Soy Kevin Dorado, un desarrollador Jr.
+Soy Kevin Dorado, un desarrollador apasionado por la programación.
 
 ## Mis habilidades
-- Lenguajes de programación: Html
-- Herramientas: [herramientas que utilizas]
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" width="50">
-## Mis proyectos
-- [Nombre del proyecto 1](enlace al proyecto 1)
-- [Nombre del proyecto 2](enlace al proyecto 2)
+- Lenguajes de programación: HTML, CSS, JavaScript, Java, Visual Basic
+- Herramientas: Tailwind, Bootstrap
+
+![Logo de HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![Logo de CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![Logo de JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Logo de Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![Logo de Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![Logo de Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
+![Logo de Visual Basic](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg)
 
 ## Contáctame
 - [Correo electrónico](mailto:tu_correo_electrónico)
