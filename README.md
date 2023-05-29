@@ -8,7 +8,7 @@ Soy Kevin Dorado
 </div>
 
  <div align="center">
- 
+ ##
  
 ## Mis habilidades
 - Lenguajes de programación: HTML, CSS, JavaScript, Java, Visual Basic
