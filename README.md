@@ -12,7 +12,7 @@ Soy Kevin Dorado.
  
 ## Mis habilidades
 - Lenguajes de programación: HTML, CSS, JavaScript, Java, Visual Basic
-- Herramientas: Tailwind, Bootstrap
+- Herramientas: React, Tailwind, Bootstrap
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Logo de HTML" width="50">
@@ -22,7 +22,7 @@ Soy Kevin Dorado.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Logo de Bootstrap" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Logo de Java" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Logo de Visual Basic" width="50">
- 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Logo de React" width="50">
 
 
 
