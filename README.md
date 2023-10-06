@@ -2,7 +2,7 @@
  <div align="center">
 
 # Hola👋
-Soy Kevin Dorado.a
+Soy Kevin Dorado.
  
  Desarrollador Jr apasionado por la programación.
 </div>
