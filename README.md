@@ -4,7 +4,7 @@
 # Hola👋
 Soy Kevin Dorado.
  
- Desarrollador Jr apasionado por la programación.a
+ Desarrollador Jr apasionado por la programación.
 </div>
 
 
