@@ -1,5 +1,4 @@
-![Banner](https://github.com/kevin-dorado/kevin-dorado/assets/110567297/a5438e7d-756c-4017-891e-81a2df9aacdf
-)
+
  <div align="center">
 
 # Hola👋
