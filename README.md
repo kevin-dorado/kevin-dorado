@@ -1,4 +1,5 @@
-![Banner](https://i.pinimg.com/originals/85/16/00/851600d527b56401eb4310a17e659942.jpg)
+![Banner](![image](https://github.com/kevin-dorado/kevin-dorado/assets/110567297/3401bae6-2f28-4174-817d-d091c25ee99e)
+)
  <div align="center">
 
 # Hola👋
